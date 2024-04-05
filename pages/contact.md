@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Contact
+title: Kontakt
 permalink: /contact
 ---
 
 # Contact
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+Falls du an einer Zusammenarbeit interessiert bist oder einfach so etwas fragen möchtest, kannst mich per [Instagram](https://instagram.com/lennart_168) oder per [Email](mailto:kommtnoch) erreichen.
