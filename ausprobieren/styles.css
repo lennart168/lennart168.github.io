@@ -1,0 +1,53 @@
+body {
+    background-color: whitesmoke;
+    font-family: Montserrat, bold;
+    width: 100%;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+
+}
+
+.header_picture {
+    background-color: aqua;
+}
+
+.header_text {
+    background-color: red;
+}
+
+.kontaktnav {
+    background-color: yellow;
+    margin-right: 10px;
+    margin-left: auto;
+}
+
+
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+    width: 40px;
+}
+
+h1 {
+    min-width: 100%;
+    margin-left: 8px;
+}
+
+h2 {
+    text-align: right;
+    margin-right: 20px;
+}
