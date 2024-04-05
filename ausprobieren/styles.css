@@ -45,9 +45,11 @@ img {
 h1 {
     min-width: 100%;
     margin-left: 8px;
+    font-size: 10vw;
 }
 
 h2 {
     text-align: right;
     margin-right: 20px;
+    font-size: 5vw;
 }
