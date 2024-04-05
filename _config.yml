@@ -8,5 +8,5 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
 title:		   "lennart.video"
-description: "Powered by Jekyll and GitHub Pages"
-author:      "Paul Le"
+description: "Ein Portfolio von Lennart"
+author:      "Lennart D."
